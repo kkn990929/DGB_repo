@@ -22,7 +22,7 @@
        * 6
        * 7
       
-![capture](/capture.png)
+![capture](/picture.png)
 
 **별 두개는 굵은 글씨로 표시됩니다**
 
@@ -42,7 +42,7 @@ _언더바 하나도 기울임체_
 
 **이미지연결**
 
-![image](/capture.png)
+![image](/picture.png)
 
 **파일연결**
 
