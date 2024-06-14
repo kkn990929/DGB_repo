@@ -27,4 +27,14 @@ pip --trusted-host pypi.org --trusted-host files.python hosted.org install numpy
   * [깃허브](/DAY_01)
   * [파이썬 기초 및 문법](/DATA)
   * [데이터 분석 기초](/)
+  * [시각화](/)
+  * [가설검정](/)
+  * [머신러닝 및 특성공학](/)
+
+## 문의사항
+
+궁금한 사항이 있으면 메일 남겨주세요
+
+[kkn990929@naver.com](/)
+
   
