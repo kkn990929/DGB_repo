@@ -22,4 +22,9 @@ pip install numpy
 pip --trusted-host pypi.org --trusted-host files.python hosted.org install numpy
 ```
 
+## 목차
+
+  * [깃허브](/DAY_01)
+  * [파이썬 기초 및 문법](/data.txt)
+  * [데이터 분석 기초](/data
   
