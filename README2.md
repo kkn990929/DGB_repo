@@ -34,6 +34,7 @@ pip --trusted-host pypi.org --trusted-host files.python hosted.org install numpy
 ## 문의사항
 
 궁금한 사항이 있으면 메일 남겨주세요
+
 [kkn990929@naver.com](/)
 
   
